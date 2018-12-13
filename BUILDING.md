@@ -3,6 +3,8 @@
 This documents the technical side of maintaining the book's content. If you
 aren't more or less a programmer, you probably don't care.
 
+**What follows is aspirational. It doesn't yet work this way!**
+
 The book is made using [`mdbook`][mdbook]. To install it you'll need `cargo`
 installed. If you don't have any Rust tooling installed, you'll need to install
 [`rustup`][rustup] first. Follow the instructions on the site in order to get
