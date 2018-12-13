@@ -4,7 +4,8 @@ This is an "open source" collaborative project to write a book.
 
 ## Reading the Book
 
-Start at [src/OVERVIEW.md]. This will get fancier over time.
+Start at [src/introduction.md](http://github.com/earths-urge-to-compute/book/src/introduction.md).
+This will get fancier over time.
 
 ## Contributing Content
 
@@ -21,4 +22,4 @@ Dean hasn't yet sorted out that process.
 
 ## Building the Book
 
-See [BUILDING.txt].
+See [BUILDING.md](http://github.com/earths-urge-to-compute/book/BUILDING.md).
