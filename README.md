@@ -1,6 +1,6 @@
 # Earth's Urge to Compute
 
-This is an "open source" collaborative project to write a book. We use 
+This is an "open source" collaborative project to write a book. We used 
 scare quotes around "open source" because this is a book, not software,
 but it is run just like an open source software project.
 
