@@ -9,6 +9,9 @@ This will get fancier over time.
 
 ## Contributing Content
 
+All material in this repo is Copyright 2018 or later by Dean Thompson, 
+available for distribution and reuse as defined in [LICENSE.txt](./LICENSE.txt).
+
 The initial author, Dean Thompson, will welcome contributions once some initial 
 scaffolding is in place to set a direction. That said, Dean intends to gently
 assert creative control for the life of the project, to maintain a consistent
